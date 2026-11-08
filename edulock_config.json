@@ -1,0 +1,6 @@
+{
+  "port": 8000,
+  "admin_pass": "1410",
+  "client_key": "edulock-key",
+  "lang": "ru"
+}
